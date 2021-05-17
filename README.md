@@ -7,6 +7,9 @@
 
 2. `udacityInfraScript.bat & deployWebAppScript.bat`
        Scripts to be used for deploying the complete Infrastructure in the given order.
+       
+       ./udacityInfraScript.bat    
+       ./deployWebAppScript.bat
 
 3. `udacity.zip` 
        The files placed in the S3 bucket and are used for deployment
