@@ -146,4 +146,4 @@ Outputs:
         Description: The public URL of the LoadBalancer
         Value: !GetAtt WebAppLB.DNSName
         Export:
-          Name: !Sub ${EnvironmentName}-Udagram
+          Name: !Sub ${EnvironmentName}
